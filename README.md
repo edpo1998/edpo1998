@@ -1,8 +1,8 @@
-<h2> Hi, I'm Thai Braga! 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/8GIrp9PyxMHbq" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<h2> Hi, I'm Erick Poron ! 
+  <img src="https://1.bp.blogspot.com/-42Vfv-JsfII/WgPEPwRVZOI/AAAAAAAKIR4/keai3v0JysAwMsH6RLHz_we8MK_5YUt1QCLcBGAs/s1600/AS003289_11.gif" width="50">
 </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align='right' src="https://1.bp.blogspot.com/-42Vfv-JsfII/WgPEPwRVZOI/AAAAAAAKIR4/keai3v0JysAwMsH6RLHz_we8MK_5YUt1QCLcBGAs/s1600/AS003289_11.gif" width="230">
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/Js7KV7VrQDYJagYooE/giphy.gif?cid=790b76111b597b5b26445b3d6d8c260651e1bb4cbfd58eaf&rid=giphy.gif&ct=g" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
