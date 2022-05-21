@@ -15,7 +15,7 @@
   <em>
     Student of Enginner on Science and System   at <a href="https://www.usac.edu.gt/">University of San Carlos of Guatemala</a>
   </br>
-    Freelance  Developer  
+    Developer 👨‍💻
   </em>
 </p>
 
