@@ -22,7 +22,7 @@
 ### <img src="https://media.giphy.com/media/sr9VDW732xLby/giphy.gif?cid=ecf05e47aq5hc6yrex91tar2rius1jzf9puumehx9lx1o86o&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 - 💌 &nbsp; I love c/c++ and python
-- :office: &nbsp; I'm currently studying and working freelance 
+- :office: &nbsp; I'm currently studying and working at Ciancoders :) 
 - :earth_asia: &nbsp; I'm currently learning Japanese language
 - :arrow_upper_right: &nbsp; I’m currently learning programming language **Go**
 - :speech_balloon: &nbsp; I like to talk about **Code** and **Vintage**
