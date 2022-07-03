@@ -23,7 +23,6 @@
 
 - 💌 &nbsp; I love c/c++ and python
 - :office: &nbsp; I'm currently studying and working at **[Ciancoders](https://ciancoders.com/es/)** :) 
-- :earth_asia: &nbsp; I'm currently learning Japanese language
 - :arrow_upper_right: &nbsp; I’m currently learning programming language **Go**
 - :speech_balloon: &nbsp; I like to talk about **Code** and **Vintage**
 - :mailbox: &nbsp; Ask me anything on my **[Instagram](https://www.instagram.com/erickporon)**
