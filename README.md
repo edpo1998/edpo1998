@@ -142,9 +142,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" width="48" height="48" alt="AWS" />
+        <img src="https://www.ucloudstore.com/wp-content/uploads/2021/09/gcp-02.png" width="48" height="48" alt="GCP" />
       </a>
-      <br>AWS
+      <br>GCP
     </td>
   </tr>
 </table>
