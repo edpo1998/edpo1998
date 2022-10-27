@@ -8,6 +8,9 @@
   単純なものを習得することに集中する必要があります
 </h3>
 
+<div align="center">
+     <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=9wbp1kvcithrllddqcihv4pe9&amp;cover_image=true&amp;theme=natemoo-re">
+</div>
 
 <img align='right' src="https://media.giphy.com/media/frSfC5NcmyF7q/giphy.gif?cid=ecf05e47983uxhouyelhcpap253kx0o1gxal2lla47sa7jlm&rid=giphy.gif&ct=g" width="230">
 
