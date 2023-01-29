@@ -18,14 +18,14 @@
   <em>
     Student of Enginner on Science and System   at <a href="https://www.usac.edu.gt/">University of San Carlos of Guatemala</a>
   </br>
-    Developer 👨‍💻
+    Fullstack Developer 👨‍💻
   </em>
 </p>
 
 ### <img src="https://media.giphy.com/media/sr9VDW732xLby/giphy.gif?cid=ecf05e47aq5hc6yrex91tar2rius1jzf9puumehx9lx1o86o&rid=giphy.gif&ct=g" width="50"> A little more about me...  
 
 - 💌 &nbsp; I love c/c++ and python
-- :office: &nbsp; I'm currently studying and working at **[Ciancoders](https://ciancoders.com/es/)** :) 
+- :office: &nbsp; I'm currently studying and working 
 - :arrow_upper_right: &nbsp; I’m currently learning programming language **Go**
 - :speech_balloon: &nbsp; I like to talk about **Code** and **Vintage**
 - :mailbox: &nbsp; Ask me anything on my **[Instagram](https://www.instagram.com/erickporon)**
