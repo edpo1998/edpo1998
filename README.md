@@ -89,7 +89,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" width="48" height="48" alt="Sass" />
+        <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
     </td>
@@ -139,15 +139,15 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://i.blogs.es/3eae46/650_1000_rlogo/450_1000.png" width="48" height="48" alt="R" />
+        <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" width="48" height="48" alt="Flask" />
       </a>
-      <br>R
+      <br>Flask
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://www.ucloudstore.com/wp-content/uploads/2021/09/gcp-02.png" width="48" height="48" alt="GCP" />
+        <img src="https://www.pngmart.com/files/23/Aws-Logo-PNG-Picture.png" width="48" height="48" alt="AWS" />
       </a>
-      <br>GCP
+      <br>AWS
     </td>
   </tr>
 </table>
