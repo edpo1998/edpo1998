@@ -41,12 +41,6 @@
   <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" width="48" height="48" alt="django" />
-      </a>
-      <br>Django&nbsp;
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
         <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" width="48" height="48" alt="Python" />
       </a>
       <br>Python
@@ -59,9 +53,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://docs.microsoft.com/bg-bg/windows/images/c-logo.png" width="48" height="48" alt="C/C++" />
+        <img src="[https://docs.microsoft.com/bg-bg/windows/images/c-logo.png](https://www.manualweb.net/img/logos/java.png)" width="48" height="48" alt="Java" />
       </a>
-      <br>C/C++
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -74,12 +68,6 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
-      </a>
-      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -95,18 +83,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#macropower-tech" >
-        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
         <img src="https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png" width="48" height="48" alt="Ubuntu" />
@@ -118,6 +94,12 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="VSCODE" />
       </a>
       <br>VSCode
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" width="48" height="48" alt="Angular" />
+      </a>
+      <br>Angular
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -133,15 +115,33 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
-        <img src="https://i.blogs.es/53fd11/rustician-rust-lenguaje/1366_2000.png" width="48" height="48" alt="Rust" />
+        <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
-      <br>Rust
+      <br>MongoDB
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
         <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png" width="48" height="48" alt="Flask" />
       </a>
       <br>Flask
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://framagit.org/uploads/-/system/project/avatar/28062/django.png" width="48" height="48" alt="django" />
+      </a>
+      <br>Django&nbsp;
+    </td>
+    <td align="center" width="96"> 
+      <a href="#macropower-tech" >
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech" >
