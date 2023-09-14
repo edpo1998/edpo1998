@@ -39,6 +39,18 @@
 
 <table>
   <tr>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png" width="48" height="48" alt="Ubuntu" />
+      </a>
+      <br>Ubuntu
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="VSCODE" />
+      </a>
+      <br>VSCode
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://i.pinimg.com/originals/91/94/c9/9194c978fa63798b2e882e6fda5eb953.png" width="48" height="48" alt="Python" />
@@ -53,7 +65,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="[https://docs.microsoft.com/bg-bg/windows/images/c-logo.png](https://www.manualweb.net/img/logos/java.png)" width="48" height="48" alt="Java" />
+        <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/181_Java-512.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
@@ -80,18 +92,6 @@
         <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="48" height="48" alt="Sass" />
       </a>
       <br>Sass
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://1000marcas.net/wp-content/uploads/2020/03/Logo-Ubuntu.png" width="48" height="48" alt="Ubuntu" />
-      </a>
-      <br>Ubuntu
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" width="48" height="48" alt="VSCODE" />
-      </a>
-      <br>VSCode
     </td>
   </tr>
   <tr>
