@@ -89,9 +89,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" width="48" height="48" alt="Sass" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Apache_kafka.svg/1200px-Apache_kafka.svg.png" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>Kafka
     </td>
   </tr>
   <tr>
