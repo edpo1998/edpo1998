@@ -24,8 +24,7 @@
 - :office: &nbsp; I'm currently studying and working 
 - :arrow_upper_right: &nbsp; I’m currently learning programming language **Go**
 - :speech_balloon: &nbsp; I like to talk about **Code** and **Vintage**
-- :mailbox: &nbsp; Ask me anything on my **[Instagram](https://www.instagram.com/erickporon)**
-- :computer: &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/erick-poron-194b08221/)**
+- :computer: &nbsp; Connect with me on **[LinkedIn](https://www.linkedin.com/in/daniel-mu%C3%B1oz-194b08221/)**
 
 <br>
 
